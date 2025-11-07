@@ -1,0 +1,6 @@
+#Cooldown time in seconds between bed spawns
+#Range: 0 ~ 86400
+cooldownTime = 300
+#Whether to show a message when a player tries to set a spawn during cooldown
+showCooldownMessage = true
+

@@ -1,0 +1,1297 @@
+{
+  "skillLocks": {
+    "minecraft:iron_sword": [
+      "attack:12"
+    ],
+    "minecraft:iron_shovel": [
+      "gathering:12"
+    ],
+    "minecraft:iron_pickaxe": [
+      "mining:12"
+    ],
+    "minecraft:iron_axe": [
+      "gathering:12"
+    ],
+    "minecraft:iron_hoe": [
+      "farming:12"
+    ],
+    "minecraft:iron_helmet": [
+      "defense:12"
+    ],
+    "minecraft:iron_chestplate": [
+      "defense:12"
+    ],
+    "minecraft:iron_leggings": [
+      "defense:12"
+    ],
+    "minecraft:iron_boots": [
+      "defense:12"
+    ],
+    "minecraft:diamond_sword": [
+      "attack:38"
+    ],
+    "minecraft:diamond_shovel": [
+      "gathering:38"
+    ],
+    "minecraft:diamond_pickaxe": [
+      "mining:38"
+    ],
+    "minecraft:diamond_axe": [
+      "gathering:38"
+    ],
+    "minecraft:diamond_hoe": [
+      "farming:38"
+    ],
+    "minecraft:diamond_helmet": [
+      "defense:38"
+    ],
+    "minecraft:diamond_chestplate": [
+      "defense:38"
+    ],
+    "minecraft:diamond_leggings": [
+      "defense:38"
+    ],
+    "minecraft:diamond_boots": [
+      "defense:38"
+    ],
+    "minecraft:netherite_sword": [
+      "attack:30"
+    ],
+    "minecraft:netherite_shovel": [
+      "gathering:30"
+    ],
+    "minecraft:netherite_pickaxe": [
+      "mining:30"
+    ],
+    "minecraft:netherite_axe": [
+      "gathering:30"
+    ],
+    "minecraft:netherite_hoe": [
+      "farming:30"
+    ],
+    "minecraft:netherite_helmet": [
+      "defense:30"
+    ],
+    "minecraft:netherite_chestplate": [
+      "defense:30"
+    ],
+    "minecraft:netherite_leggings": [
+      "defense:30"
+    ],
+    "minecraft:netherite_boots": [
+      "defense:30"
+    ],
+    "celestisynth:aquaflora": [
+      "farming:80"
+    ],
+    "celestisynth:breezebreaker": [
+      "attack:80"
+    ],
+    "celestisynth:celestial_core": [
+      "magic:80"
+    ],
+    "celestisynth:celestial_core_heated": [
+      "magic:80"
+    ],
+    "celestisynth:celestial_crafting_table": [
+      "building:80"
+    ],
+    "celestisynth:celestial_debugger": [
+      "magic:80"
+    ],
+    "celestisynth:celestial_netherite_ingot": [
+      "mining:80"
+    ],
+    "celestisynth:celestial_spell_book": [
+      "magic:80"
+    ],
+    "celestisynth:crescentia": [
+      "magic:80"
+    ],
+    "celestisynth:crimson_piece": [
+      "farming:80"
+    ],
+    "celestisynth:eyebomination": [
+      "defense:80"
+    ],
+    "celestisynth:frostbound": [
+      "attack:80"
+    ],
+    "celestisynth:keres": [
+      "attack:80"
+    ],
+    "celestisynth:lunar_scrap": [
+      "mining:80"
+    ],
+    "celestisynth:lunar_stone": [
+      "mining:80"
+    ],
+    "celestisynth:lunar_stone_boots": [
+      "defense:80"
+    ],
+    "celestisynth:lunar_stone_chestplate": [
+      "defense:80"
+    ],
+    "celestisynth:lunar_stone_helmet": [
+      "defense:80"
+    ],
+    "celestisynth:lunar_stone_leggings": [
+      "defense:80"
+    ],
+    "celestisynth:poltergeist": [
+      "magic:80"
+    ],
+    "celestisynth:rainfall_serenity": [
+      "farming:80"
+    ],
+    "celestisynth:solar_crystal": [
+      "mining:80"
+    ],
+    "celestisynth:solar_crystal_boots": [
+      "defense:80"
+    ],
+    "celestisynth:solar_crystal_chestplate": [
+      "defense:80"
+    ],
+    "celestisynth:solar_crystal_helmet": [
+      "defense:80"
+    ],
+    "celestisynth:solar_crystal_leggings": [
+      "defense:80"
+    ],
+    "celestisynth:solaris": [
+      "magic:80"
+    ],
+    "celestisynth:star_monolith": [
+      "magic:80"
+    ],
+    "celestisynth:star_monolith_blood": [
+      "magic:80"
+    ],
+    "celestisynth:starlit_factory": [
+      "building:80"
+    ],
+    "celestisynth:starstruck_feather": [
+      "magic:80"
+    ],
+    "celestisynth:starstruck_scrap": [
+      "magic:80"
+    ],
+    "celestisynth:supernal_netherite_ingot": [
+      "mining:80"
+    ],
+    "celestisynth:tempest_spawn_egg": [
+      "magic:80"
+    ],
+    "celestisynth:traverser_spawn_egg": [
+      "magic:80"
+    ],
+    "celestisynth:winteris": [
+      "magic:80"
+    ],
+    "celestisynth:winteris_shard": [
+      "magic:80"
+    ],
+    "celestisynth:zephyr_deposit": [
+      "mining:80"
+    ],
+    "poly_ores_repolished:large_frosted_sword": [
+      "attack:50"
+    ],
+    "poly_ores_repolished:frosted_sword": [
+      "attack:38"
+    ],
+    "poly_ores_repolished:frosted_axe": [
+      "gathering:33"
+    ],
+    "poly_ores_repolished:frosted_pickaxe": [
+      "mining:33"
+    ],
+    "poly_ores_repolished:frosted_shovel": [
+      "gathering:40"
+    ],
+    "poly_ores_repolished:frosted_shovpick": [
+      "mining:40"
+    ],
+    "poly_ores_repolished:frosted_shovaxe": [
+      "gathering:40"
+    ],
+    "poly_ores_repolished:frosted_hoe": [
+      "farming:12"
+    ],
+    "poly_ores_repolished:frosted_helmet": [
+      "defense:10"
+    ],
+    "poly_ores_repolished:frosted_chestplate": [
+      "defense:10"
+    ],
+    "poly_ores_repolished:frosted_leggings": [
+      "defense:10"
+    ],
+    "poly_ores_repolished:frosted_boots": [
+      "defense:10"
+    ],
+    "poly_ores_repolished:large_toxic_sword": [
+      "attack:25"
+    ],
+    "poly_ores_repolished:toxic_sword": [
+      "attack:16"
+    ],
+    "poly_ores_repolished:toxic_axe": [
+      "gathering:16"
+    ],
+    "poly_ores_repolished:toxic_pickaxe": [
+      "mining:16"
+    ],
+    "poly_ores_repolished:toxic_shovel": [
+      "gathering:16"
+    ],
+    "poly_ores_repolished:toxic_shovpick": [
+      "mining:16"
+    ],
+    "poly_ores_repolished:toxic_shovaxe": [
+      "gathering:16"
+    ],
+    "poly_ores_repolished:toxic_hoe": [
+      "farming:7"
+    ],
+    "poly_ores_repolished:toxic_helmet": [
+      "defense:7"
+    ],
+    "poly_ores_repolished:toxic_chestplate": [
+      "defense:7"
+    ],
+    "poly_ores_repolished:toxic_leggings": [
+      "defense:7"
+    ],
+    "poly_ores_repolished:toxic_boots": [
+      "defense:7"
+    ],
+    "poly_ores_repolished:large_blazing_sword": [
+      "attack:28"
+    ],
+    "poly_ores_repolished:blazing_sword": [
+      "attack:62"
+    ],
+    "poly_ores_repolished:blazing_axe": [
+      "gathering:50"
+    ],
+    "poly_ores_repolished:blazing_pickaxe": [
+      "mining:50"
+    ],
+    "poly_ores_repolished:blazing_shovel": [
+      "gathering:50"
+    ],
+    "poly_ores_repolished:blazing_shovpick": [
+      "mining:50"
+    ],
+    "poly_ores_repolished:blazing_shovaxe": [
+      "gathering:50"
+    ],
+    "poly_ores_repolished:blazing_hoe": [
+      "farming:50"
+    ],
+    "poly_ores_repolished:blazing_helmet": [
+      "defense:50"
+    ],
+    "poly_ores_repolished:blazing_chestplate": [
+      "defense:50"
+    ],
+    "poly_ores_repolished:blazing_leggings": [
+      "defense:50"
+    ],
+    "poly_ores_repolished:blazing_boots": [
+      "defense:50"
+    ],
+    "poly_ores_repolished:large_holy_sword": [
+      "attack:28"
+    ],
+    "poly_ores_repolished:holy_sword": [
+      "attack:62"
+    ],
+    "poly_ores_repolished:holy_axe": [
+      "gathering:24"
+    ],
+    "poly_ores_repolished:holy_pickaxe": [
+      "mining:24"
+    ],
+    "poly_ores_repolished:holy_shovel": [
+      "gathering:24"
+    ],
+    "poly_ores_repolished:holy_shovpick": [
+      "mining:24"
+    ],
+    "poly_ores_repolished:holy_shovaxe": [
+      "gathering:24"
+    ],
+    "poly_ores_repolished:holy_hoe": [
+      "farming:24"
+    ],
+    "poly_ores_repolished:holy_helmet": [
+      "defense:24"
+    ],
+    "poly_ores_repolished:holy_chestplate": [
+      "defense:24"
+    ],
+    "poly_ores_repolished:holy_leggings": [
+      "defense:24"
+    ],
+    "poly_ores_repolished:holy_boots": [
+      "defense:24"
+    ],
+    "poly_ores_repolished:large_levitation_sword": [
+      "attack:38"
+    ],
+    "poly_ores_repolished:levitation_sword": [
+      "attack:25"
+    ],
+    "poly_ores_repolished:levitation_axe": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:levitation_pickaxe": [
+      "mining:25"
+    ],
+    "poly_ores_repolished:levitation_shovel": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:levitation_shovpick": [
+      "mining:25"
+    ],
+    "poly_ores_repolished:levitation_shovaxe": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:levitation_hoe": [
+      "farming:25"
+    ],
+    "poly_ores_repolished:levitation_helmet": [
+      "defense:16"
+    ],
+    "poly_ores_repolished:levitation_chestplate": [
+      "defense:16"
+    ],
+    "poly_ores_repolished:levitation_leggings": [
+      "defense:16"
+    ],
+    "poly_ores_repolished:levitation_boots": [
+      "defense:16"
+    ],
+    "poly_ores_repolished:obsidianblazingsword": [
+      "attack:26"
+    ],
+    "poly_ores_repolished:obsidianblazinglargesword": [
+      "attack:30"
+    ],
+    "poly_ores_repolished:obsidian_blazingaxe": [
+      "gathering:22"
+    ],
+    "poly_ores_repolished:obsidian_blastingpickaxe": [
+      "mining:22"
+    ],
+    "poly_ores_repolished:obsidianblazing_shovel": [
+      "gathering:22"
+    ],
+    "poly_ores_repolished:obsidianblazinghoe": [
+      "farming:22"
+    ],
+    "poly_ores_repolished:obsidianblazingshovaxe": [
+      "gathering:22"
+    ],
+    "poly_ores_repolished:obsidianblazingshovpick": [
+      "mining:22"
+    ],
+    "poly_ores_repolished:obsidianblazingarmor_helmet": [
+      "defense:21"
+    ],
+    "poly_ores_repolished:obsidianblazingarmor_chestplate": [
+      "defense:21"
+    ],
+    "poly_ores_repolished:obsidianblazingarmor_leggings": [
+      "defense:21"
+    ],
+    "poly_ores_repolished:obsidianblazingarmor_boots": [
+      "defense:21"
+    ],
+    "poly_ores_repolished:holyfrostedsword": [
+      "attack:62"
+    ],
+    "poly_ores_repolished:holyfrostedlargesword": [
+      "attack:29"
+    ],
+    "poly_ores_repolished:holyfrostedaxe": [
+      "gathering:62"
+    ],
+    "poly_ores_repolished:holyfrostedpickaxe": [
+      "mining:62"
+    ],
+    "poly_ores_repolished:holyfrostedshovel": [
+      "gathering:62"
+    ],
+    "poly_ores_repolished:holyfrostedhoe": [
+      "farming:62"
+    ],
+    "poly_ores_repolished:holyfrostedshovaxe": [
+      "gathering:62"
+    ],
+    "poly_ores_repolished:holyfrostedshovpick": [
+      "mining:62"
+    ],
+    "poly_ores_repolished:holyfrostedarmor_helmet": [
+      "defense:62"
+    ],
+    "poly_ores_repolished:holyfrostedarmor_chestplate": [
+      "defense:62"
+    ],
+    "poly_ores_repolished:holyfrostedarmor_leggings": [
+      "defense:62"
+    ],
+    "poly_ores_repolished:holyfrostedarmor_boots": [
+      "defense:62"
+    ],
+    "poly_ores_repolished:desinfectedtoxicsword": [
+      "attack:62"
+    ],
+    "poly_ores_repolished:desinfectedlargesword": [
+      "attack:43"
+    ],
+    "poly_ores_repolished:desinfectedtoxicaxe": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:desinfectedtoxicpickaxe": [
+      "mining:25"
+    ],
+    "poly_ores_repolished:desinfected_toxicshovel": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:desinfectedshovaxe": [
+      "gathering:25"
+    ],
+    "poly_ores_repolished:desinfectedshovpick": [
+      "mining:25"
+    ],
+    "poly_ores_repolished:desinfectedtoxichoe": [
+      "farming:25"
+    ],
+    "poly_ores_repolished:desinfectedtoxic_helmet": [
+      "defense:20"
+    ],
+    "poly_ores_repolished:desinfectedtoxic_chestplate": [
+      "defense:20"
+    ],
+    "poly_ores_repolished:desinfectedtoxic_leggings": [
+      "defense:20"
+    ],
+    "poly_ores_repolished:desinfectedtoxic_boots": [
+      "defense:20"
+    ],
+    "irons_spellbooks:wimpy_spell_book": [
+      "magic:12"
+    ],
+    "irons_spellbooks:iron_spell_book": [
+      "magic:18"
+    ],
+    "irons_spellbooks:copper_spell_book": [
+      "magic:12"
+    ],
+    "irons_spellbooks:blaze_spell_book": [
+      "magic:38"
+    ],
+    "irons_spellbooks:druidic_spell_book": [
+      "magic:38"
+    ],
+    "irons_spellbooks:diamond_spell_book": [
+      "magic:38"
+    ],
+    "irons_spellbooks:evoker_spell_book": [
+      "magic:62"
+    ],
+    "irons_spellbooks:dragonskin_spell_book": [
+      "magic:50"
+    ],
+    "irons_spellbooks:necronomicon_spell_book": [
+      "magic:62"
+    ],
+    "irons_spellbooks:legendary_spell_book": [
+      "magic:43"
+    ],
+    "irons_spellbooks:netherite_spell_book": [
+      "magic:50"
+    ],
+    "irons_spellbooks:villager_spell_book": [
+      "magic:50"
+    ],
+    "irons_spellbooks:rotten_spell_book": [
+      "magic:25"
+    ],
+    "irons_spellbooks:blank_rune": [
+      "magic:12"
+    ],
+    "irons_spellbooks:arcane_rune": [
+      "magic:25"
+    ],
+    "irons_spellbooks:fire_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:ice_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:blood_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:ender_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:evocation_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:holy_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:cooldown_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:lightning_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:nature_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:protection_rune": [
+      "magic:30"
+    ],
+    "irons_spellbooks:lesser_spell_slot_upgrade": [
+      "magic:30"
+    ],
+    "irons_spellbooks:fire_upgrade_orb": [
+      "magic:38"
+    ],
+    "irons_spellbooks:ice_upgrade_orb": [
+      "magic:38"
+    ],
+    "irons_spellbooks:ender_upgrade_orb": [
+      "magic:40"
+    ],
+    "irons_spellbooks:blood_upgrade_orb": [
+      "magic:40"
+    ],
+    "irons_spellbooks:evocation_upgrade_orb": [
+      "magic:43"
+    ],
+    "irons_spellbooks:holy_upgrade_orb": [
+      "magic:45"
+    ],
+    "irons_spellbooks:cooldown_upgrade_orb": [
+      "magic:45"
+    ],
+    "irons_spellbooks:lightning_upgrade_orb": [
+      "magic:50"
+    ],
+    "irons_spellbooks:nature_upgrade_orb": [
+      "magic:50"
+    ],
+    "irons_spellbooks:protection_upgrade_orb": [
+      "magic:22"
+    ],
+    "irons_spellbooks:upgrade_orb": [
+      "magic:22"
+    ],
+    "irons_spellbooks:common_ink": [
+      "magic:12"
+    ],
+    "irons_spellbooks:uncommon_ink": [
+      "magic:25"
+    ],
+    "irons_spellbooks:rare_ink": [
+      "magic:38"
+    ],
+    "irons_spellbooks:epic_ink": [
+      "magic:50"
+    ],
+    "irons_spellbooks:legendary_ink": [
+      "magic:62"
+    ],
+    "irons_spellbooks:magic_cloth": [
+      "magic:30"
+    ],
+    "irons_spellbooks:energized_core": [
+      "magic:40"
+    ],
+    "irons_spellbooks:arcane_essence": [
+      "magic:12"
+    ],
+    "irons_spellbooks:arcane_ingot": [
+      "magic:25"
+    ],
+    "irons_spellbooks:arcane_debris": [
+      "magic:62"
+    ],
+    "irons_spellbooks:arcane_anvil": [
+      "magic:38"
+    ],
+    "irons_spellbooks:inscription_table": [
+      "magic:25"
+    ],
+    "irons_spellbooks:scroll": [
+      "magic:20"
+    ],
+    "irons_spellbooks:scroll_forge": [
+      "magic:45"
+    ],
+    "irons_spellbooks:spell_scroll": [
+      "magic:25"
+    ],
+    "irons_spellbooks:staff_of_the_nines": [
+      "magic:80"
+    ],
+    "irons_spellbooks:ice_staff": [
+      "magic:62"
+    ],
+    "irons_spellbooks:blood_staff": [
+      "magic:62"
+    ],
+    "irons_spellbooks:magehunter": [
+      "magic:38"
+    ],
+    "irons_spellbooks:misery": [
+      "magic:62"
+    ],
+    "irons_spellbooks:cryomancer_helmet": [
+      "defense:25"
+    ],
+    "irons_spellbooks:cryomancer_chestplate": [
+      "defense:25"
+    ],
+    "irons_spellbooks:cryomancer_leggings": [
+      "defense:25"
+    ],
+    "irons_spellbooks:cryomancer_boots": [
+      "defense:25"
+    ],
+    "irons_spellbooks:pyromancer_helmet": [
+      "defense:25"
+    ],
+    "irons_spellbooks:pyromancer_chestplate": [
+      "defense:25"
+    ],
+    "irons_spellbooks:pyromancer_leggings": [
+      "defense:25"
+    ],
+    "irons_spellbooks:pyromancer_boots": [
+      "defense:25"
+    ],
+    "irons_spellbooks:electromancer_helmet": [
+      "defense:25"
+    ],
+    "irons_spellbooks:electromancer_chestplate": [
+      "defense:25"
+    ],
+    "irons_spellbooks:electromancer_leggings": [
+      "defense:25"
+    ],
+    "irons_spellbooks:electromancer_boots": [
+      "defense:25"
+    ],
+    "irons_spellbooks:netherite_mage_helmet": [
+      "defense:62"
+    ],
+    "irons_spellbooks:netherite_mage_chestplate": [
+      "defense:62"
+    ],
+    "irons_spellbooks:netherite_mage_leggings": [
+      "defense:62"
+    ],
+    "irons_spellbooks:netherite_mage_boots": [
+      "defense:62"
+    ],
+    "irons_spellbooks:wandering_magician_helmet": [
+      "defense:12"
+    ],
+    "irons_spellbooks:wandering_magician_chestplate": [
+      "defense:12"
+    ],
+    "irons_spellbooks:wandering_magician_leggings": [
+      "defense:12"
+    ],
+    "irons_spellbooks:wandering_magician_boots": [
+      "defense:12"
+    ],
+    "irons_spellbooks:shadowwalker_helmet": [
+      "defense:25"
+    ],
+    "irons_spellbooks:shadowwalker_chestplate": [
+      "defense:25"
+    ],
+    "irons_spellbooks:shadowwalker_leggings": [
+      "defense:25"
+    ],
+    "irons_spellbooks:shadowwalker_boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:helmet_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:chestplate_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:leggings_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:boots_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:helmet_gold": [
+      "defense:30"
+    ],
+    "samurai_dynasty:chestplate_gold": [
+      "defense:30"
+    ],
+    "samurai_dynasty:leggings_gold": [
+      "defense:30"
+    ],
+    "samurai_dynasty:boots_gold": [
+      "defense:30"
+    ],
+    "samurai_dynasty:helmet_diamond": [
+      "defense:35"
+    ],
+    "samurai_dynasty:chestplate_diamond": [
+      "defense:35"
+    ],
+    "samurai_dynasty:leggings_diamond": [
+      "defense:35"
+    ],
+    "samurai_dynasty:boots_diamond": [
+      "defense:35"
+    ],
+    "samurai_dynasty:helmet_master": [
+      "defense:50"
+    ],
+    "samurai_dynasty:chestplate_master": [
+      "defense:50"
+    ],
+    "samurai_dynasty:leggings_master": [
+      "defense:50"
+    ],
+    "samurai_dynasty:boots_master": [
+      "defense:50"
+    ],
+    "samurai_dynasty:ninja_helmet": [
+      "attack:25"
+    ],
+    "samurai_dynasty:ninja_boots": [
+      "attack:25"
+    ],
+    "samurai_dynasty:iron_samurai_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:iron_samurai_helmet_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:iron_samurai_helmet_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:iron_samurai_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:iron_samurai_chestplate_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:iron_samurai_chestplate_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:iron_samurai_leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:iron_samurai_leggings_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:iron_samurai_leggings_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:iron_samurai_boots_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:iron_samurai_boots_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:kama": [
+      "attack:25"
+    ],
+    "samurai_dynasty:kama_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:kamayari": [
+      "attack:25"
+    ],
+    "samurai_dynasty:kamayari_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:katana": [
+      "attack:25"
+    ],
+    "samurai_dynasty:katana_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:kunai": [
+      "attack:25"
+    ],
+    "samurai_dynasty:kunai_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:nagamaki": [
+      "attack:25"
+    ],
+    "samurai_dynasty:nagamaki_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:naginata": [
+      "attack:25"
+    ],
+    "samurai_dynasty:naginata_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:odachi": [
+      "attack:25"
+    ],
+    "samurai_dynasty:odachi_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:netherite_samurai_helmet": [
+      "defense:40"
+    ],
+    "samurai_dynasty:netherite_samurai_helmet_light": [
+      "defense:30"
+    ],
+    "samurai_dynasty:netherite_samurai_helmet_master": [
+      "defense:55"
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate": [
+      "defense:40"
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate_light": [
+      "defense:30"
+    ],
+    "samurai_dynasty:netherite_samurai_chestplate_master": [
+      "defense:55"
+    ],
+    "samurai_dynasty:netherite_samurai_leggings": [
+      "defense:40"
+    ],
+    "samurai_dynasty:netherite_samurai_leggings_light": [
+      "defense:30"
+    ],
+    "samurai_dynasty:netherite_samurai_leggings_master": [
+      "defense:55"
+    ],
+    "samurai_dynasty:netherite_samurai_boots": [
+      "defense:40"
+    ],
+    "samurai_dynasty:netherite_samurai_boots_light": [
+      "defense:30"
+    ],
+    "samurai_dynasty:netherite_samurai_boots_master": [
+      "defense:55"
+    ],
+    "samurai_dynasty:quartz_samurai_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:quartz_samurai_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:quartz_samurai_leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:red_samurai_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:red_samurai_helmet_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:red_samurai_helmet_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:red_samurai_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:red_samurai_chestplate_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:red_samurai_chestplate_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:red_samurai_boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:red_samurai_boots_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:red_samurai_boots_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:sculk_samurai_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:sculk_samurai_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:sculk_samurai_leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:sculk_samurai_boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:shuko": [
+      "attack:25"
+    ],
+    "samurai_dynasty:shuko_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:shuriken": [
+      "attack:25"
+    ],
+    "samurai_dynasty:sai_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:steel_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:steel_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:steel_leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:steel_boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:steel_ninja_helmet": [
+      "attack:25"
+    ],
+    "samurai_dynasty:steel_ninja_chestplate": [
+      "attack:25"
+    ],
+    "samurai_dynasty:steel_ninja_boots": [
+      "attack:25"
+    ],
+    "samurai_dynasty:tetsubo": [
+      "attack:25"
+    ],
+    "samurai_dynasty:tetsubo_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:tonbukiri": [
+      "attack:25"
+    ],
+    "samurai_dynasty:tonbukiri_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:wakizashi": [
+      "attack:25"
+    ],
+    "samurai_dynasty:wakizashi_netherite": [
+      "attack:40"
+    ],
+    "samurai_dynasty:white_samurai_helmet": [
+      "defense:25"
+    ],
+    "samurai_dynasty:white_samurai_helmet_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:white_samurai_helmet_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:white_samurai_chestplate": [
+      "defense:25"
+    ],
+    "samurai_dynasty:white_samurai_chestplate_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:white_samurai_chestplate_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:white_samurai_leggings": [
+      "defense:25"
+    ],
+    "samurai_dynasty:white_samurai_leggings_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:white_samurai_leggings_master": [
+      "defense:40"
+    ],
+    "samurai_dynasty:white_samurai_boots": [
+      "defense:25"
+    ],
+    "samurai_dynasty:white_samurai_boots_light": [
+      "defense:15"
+    ],
+    "samurai_dynasty:white_samurai_boots_master": [
+      "defense:40"
+    ],
+    "minecraft:totem_of_undying": [
+      "magic:20"
+    ],
+    "betterarcheology:growth_totem": [
+      "magic:30"
+    ],
+    "betterarcheology:radiance_totem": [
+      "magic:35"
+    ],
+    "betterarcheology:soul_totem": [
+      "magic:40"
+    ],
+    "betterarcheology:torrent_totem": [
+      "magic:45"
+    ],
+    "born_in_chaos_v1:death_totem": [
+      "magic:55"
+    ],
+    "gnumus:gnumus_totem": [
+      "magic:60"
+    ],
+    "realmrpg:realmrpg_sword": [
+      "attack:30"
+    ],
+    "realmrpg:realmrpg_greatsword": [
+      "attack:35"
+    ],
+    "realmrpg:realmrpg_dagger": [
+      "attack:25"
+    ],
+    "realmrpg:realmrpg_axe": [
+      "gathering:28"
+    ],
+    "realmrpg:realmrpg_chestplate": [
+      "defense:30"
+    ],
+    "realmrpg:realmrpg_helmet": [
+      "defense:30"
+    ],
+    "realmrpg:realmrpg_leggings": [
+      "defense:30"
+    ],
+    "realmrpg:realmrpg_boots": [
+      "defense:30"
+    ],
+    "aquamirae:abyssal_boots": [
+      "defense:35"
+    ],
+    "aquamirae:abyssal_brigantine": [
+      "defense:35"
+    ],
+    "aquamirae:abyssal_heaume": [
+      "defense:35"
+    ],
+    "aquamirae:abyssal_leggings": [
+      "defense:35"
+    ],
+    "aquamirae:terrible_helmet": [
+      "defense:38"
+    ],
+    "aquamirae:terrible_chestplate": [
+      "defense:38"
+    ],
+    "aquamirae:terrible_leggings": [
+      "defense:38"
+    ],
+    "aquamirae:terrible_boots": [
+      "defense:38"
+    ],
+    "aquamirae:three_bolt_helmet": [
+      "defense:42"
+    ],
+    "aquamirae:three_bolt_leggings": [
+      "defense:42"
+    ],
+    "aquamirae:three_bolt_boots": [
+      "defense:42"
+    ],
+    "aquamirae:three_bolt_suit": [
+      "defense:42"
+    ],
+    "aquamirae:dagger_of_greed": [
+      "attack:30"
+    ],
+    "aquamirae:divider": [
+      "attack:40"
+    ],
+    "aquamirae:coral_lance": [
+      "attack:28"
+    ],
+    "aquamirae:fin_cutter": [
+      "attack:30"
+    ],
+    "aquamirae:poisoned_blade": [
+      "attack:35"
+    ],
+    "aquamirae:remnants_saber": [
+      "attack:42"
+    ],
+    "aquamirae:sweet_lance": [
+      "attack:34"
+    ],
+    "aquamirae:terrible_sword": [
+      "attack:38"
+    ],
+    "aquamirae:whisper_of_the_abyss": [
+      "attack:48"
+    ],
+    "call_of_yucutan:silex_tecpatl": [
+      "attack:5"
+    ],
+    "call_of_yucutan:wooden_tecpatl": [
+      "attack:5"
+    ],
+    "call_of_yucutan:flint_spear": [
+      "attack:5"
+    ],
+    "call_of_yucutan:monkey_helmet": [
+      "defense:20"
+    ],
+    "call_of_yucutan:jade_hoe": [
+      "farming:30"
+    ],
+    "call_of_yucutan:jades_boots": [
+      "defense:20"
+    ],
+    "call_of_yucutan:wooden_spear": [
+      "attack:5"
+    ],
+    "call_of_yucutan:jades_helmet": [
+      "defense:20"
+    ],
+    "call_of_yucutan:sentient_vine": [
+      "mining:15"
+    ],
+    "call_of_yucutan:obsidian_tecpatl": [
+      "attack:5"
+    ],
+    "call_of_yucutan:jades_chestplate": [
+      "defense:20"
+    ],
+    "call_of_yucutan:obsidian_spear": [
+      "attack:15"
+    ],
+    "call_of_yucutan:jade_axe": [
+      "gathering:30"
+    ],
+    "call_of_yucutan:jade_pickaxe": [
+      "mining:30"
+    ],
+    "call_of_yucutan:jade_sword": [
+      "attack:15"
+    ],
+    "call_of_yucutan:jades_leggings": [
+      "defense:20"
+    ],
+    "call_of_yucutan:macuahuitl": [
+      "attack:15"
+    ],
+    "call_of_yucutan:huracan_helmet": [
+      "defense:20"
+    ],
+    "call_of_yucutan:warrior_helmet": [
+      "defense:20"
+    ],
+    "call_of_yucutan:jade_shovel": [
+      "gathering:30"
+    ],
+    "born_in_chaos_v1:spiritual_sword": [
+      "attack:40"
+    ],
+    "born_in_chaos_v1:staff_of_magic_arrows": [
+      "magic:40"
+    ],
+    "born_in_chaos_v1:staffof_blindness": [
+      "magic:40"
+    ],
+    "born_in_chaos_v1:sweet_sword": [
+      "attack:40"
+    ],
+    "born_in_chaos_v1:supreme_measure": [
+      "magic:45"
+    ],
+    "cataclysm:bloom_stone_pauldrons": [
+      "defense:30"
+    ],
+    "cataclysm:monstrous_helm": [
+      "defense:30"
+    ],
+    "cataclysm:black_steel_axe": [
+      "gathering:30"
+    ],
+    "cataclysm:final_fractal": [
+      "attack:30"
+    ],
+    "cataclysm:cursium_boots": [
+      "defense:35"
+    ],
+    "cataclysm:black_steel_sword": [
+      "attack:5"
+    ],
+    "cataclysm:khopesh": [
+      "attack:5"
+    ],
+    "cataclysm:athame": [
+      "attack:5"
+    ],
+    "cataclysm:black_steel_shovel": [
+      "gathering:30"
+    ],
+    "cataclysm:infernal_forge": [
+      "mining:30"
+    ],
+    "cataclysm:zweiender": [
+      "attack:30"
+    ],
+    "cataclysm:ignitium_boots": [
+      "defense:35"
+    ],
+    "cataclysm:void_forge": [
+      "mining:30"
+    ],
+    "cataclysm:bone_reptile_chestplate": [
+      "defense:30"
+    ],
+    "cataclysm:bone_reptile_helmet": [
+      "defense:30"
+    ],
+    "cataclysm:ignitium_leggings": [
+      "defense:35"
+    ],
+    "cataclysm:black_steel_hoe": [
+      "farming:30"
+    ],
+    "cataclysm:black_steel_pickaxe": [
+      "mining:30"
+    ],
+    "cataclysm:cursium_helmet": [
+      "defense:35"
+    ],
+    "cataclysm:ignitium_chestplate": [
+      "defense:35"
+    ],
+    "cataclysm:ignitium_helmet": [
+      "defense:35"
+    ],
+    "cataclysm:ignitium_elytra_chestplate": [
+      "defense:35"
+    ],
+    "cataclysm:cursium_chestplate": [
+      "defense:35"
+    ],
+    "cataclysm:cursium_leggings": [
+      "defense:35"
+    ]
+  }
+}

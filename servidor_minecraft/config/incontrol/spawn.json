@@ -1,0 +1,491 @@
+[
+  {
+    "mob": "minecraft:skeleton",
+    "result": "deny",
+    "maxcount": {
+      "amount": 22,
+      "mob": "minecraft:skeleton",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:tropical_fish",
+    "result": "deny",
+    "maxcount": {
+      "amount": 14,
+      "mob": "minecraft:tropical_fish",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:marker",
+    "result": "deny",
+    "maxcount": {
+      "amount": 13,
+      "mob": "minecraft:marker",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:armor_stand",
+    "result": "deny",
+    "maxcount": {
+      "amount": 12,
+      "mob": "minecraft:armor_stand",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:creeper",
+    "result": "deny",
+    "maxcount": {
+      "amount": 11,
+      "mob": "minecraft:creeper",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:zombie",
+    "result": "deny",
+    "maxcount": {
+      "amount": 9,
+      "mob": "minecraft:zombie",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:falling_block",
+    "result": "deny",
+    "maxcount": {
+      "amount": 9,
+      "mob": "minecraft:falling_block",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "recrafted_creatures:owl",
+    "result": "deny",
+    "maxcount": {
+      "amount": 8,
+      "mob": "recrafted_creatures:owl",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:arrow",
+    "result": "deny",
+    "maxcount": {
+      "amount": 7,
+      "mob": "minecraft:arrow",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "endermanoverhaul:cave_enderman",
+    "result": "deny",
+    "maxcount": {
+      "amount": 7,
+      "mob": "endermanoverhaul:cave_enderman",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:chest_minecart",
+    "result": "deny",
+    "maxcount": {
+      "amount": 6,
+      "mob": "minecraft:chest_minecart",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:spider",
+    "result": "deny",
+    "maxcount": {
+      "amount": 5,
+      "mob": "minecraft:spider",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:minecart",
+    "result": "deny",
+    "maxcount": {
+      "amount": 4,
+      "mob": "minecraft:minecart",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "seadwellers:mermorph_cavern",
+    "result": "deny",
+    "maxcount": {
+      "amount": 4,
+      "mob": "seadwellers:mermorph_cavern",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "kobolds:kobold",
+    "result": "deny",
+    "maxcount": {
+      "amount": 4,
+      "mob": "kobolds:kobold",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:drowned",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "minecraft:drowned",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:sheep",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "minecraft:sheep",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "naturalist:snail",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "naturalist:snail",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:cow",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "minecraft:cow",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:baby_skeleton",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "born_in_chaos_v1:baby_skeleton",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "gnumus:gnumus_hunter",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "gnumus:gnumus_hunter",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:bee",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "minecraft:bee",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:end_crystal",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "minecraft:end_crystal",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "gnumus:marsupial_mousse",
+    "result": "deny",
+    "maxcount": {
+      "amount": 3,
+      "mob": "gnumus:marsupial_mousse",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:pig",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:pig",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "naturalist:robin",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "naturalist:robin",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:villager",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:villager",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "seadwellers:mermorph_river",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "seadwellers:mermorph_river",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:vindicator",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:vindicator",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:chicken",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:chicken",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:rabbit",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:rabbit",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:witch",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:witch",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:corpse_fly",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "born_in_chaos_v1:corpse_fly",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:decaying_zombie",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "born_in_chaos_v1:decaying_zombie",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:item_frame",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:item_frame",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:pillager",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:pillager",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "biomeswevegone:pumpkin_warden",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "biomeswevegone:pumpkin_warden",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:player",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:player",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "naturalist:bluejay",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "naturalist:bluejay",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "easy_npc:humanoid",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "easy_npc:humanoid",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:horse",
+    "result": "deny",
+    "maxcount": {
+      "amount": 2,
+      "mob": "minecraft:horse",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "beggars:zombie_beggar",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "beggars:zombie_beggar",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:decrepit_skeleton",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "born_in_chaos_v1:decrepit_skeleton",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:siamese_skeletons",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "born_in_chaos_v1:siamese_skeletons",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "dungeonnowloading:spawner_carrier",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "dungeonnowloading:spawner_carrier",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "kobolds:kobold_warrior",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "kobolds:kobold_warrior",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:evoker",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "minecraft:evoker",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:hopper_minecart",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "minecraft:hopper_minecart",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:bonescaller",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "born_in_chaos_v1:bonescaller",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "born_in_chaos_v1:skeleton_demoman",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "born_in_chaos_v1:skeleton_demoman",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:painting",
+    "result": "deny",
+    "maxcount": {
+      "amount": 1,
+      "mob": "minecraft:painting",
+      "chunk": true
+    }
+  },
+  {
+    "mob": "minecraft:bat",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": "celestisynth:star_monolith",
+    "when": "onjoin",
+    "result": "deny"
+  },
+  {
+    "mob": [
+      "born_in_chaos_v1:supreme_bonescaller",
+      "minecraft:warden",
+      "born_in_chaos_v1:spiritof_chaos",
+      "tmg:the_shunned",
+      "born_in_chaos_v1:supreme_bonescaller_stage_2",
+      "born_in_chaos_v1:dark_vortex",
+      "legendary_monsters:ancient_guardian",
+      "cataclysm:deeppling_brute",
+      "mowziesmobs:ferrous_wroughtnaut",
+      "cataclysm:modern_remnant"
+    ],
+    "when": "onjoin",
+    "result": "default"
+  },
+  {
+    "when": "onjoin",
+    "result": "default"
+  }
+]

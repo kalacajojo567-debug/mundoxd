@@ -1,0 +1,26 @@
+[23:28:45.666][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[23:28:45.691][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[23:28:45.768][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[23:28:45.769][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[23:28:45.778][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[23:28:46.685][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[23:28:46.686][INFO][CraftTweaker]: - 'aquaculture' at version '2.5.5'
+[23:28:46.686][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[23:28:46.686][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.8'
+[23:28:58.576][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[23:28:59.227][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[23:28:59.270][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[23:28:59.361][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[23:29:09.386][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[23:29:09.429][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[23:29:09.461][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[23:29:09.475][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[23:29:11.023][INFO][CraftTweaker]: crafttweaker.reload.start
+[23:29:11.026][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[23:29:11.058][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[23:29:11.600][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[23:29:11.601][INFO][CraftTweaker-ZenCode]: Loading file 'crafteos.zs' with priority 0
+[23:29:11.625][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:burning_ashes' that outputs: '<item:cataclysm:burning_ashes>'
+[23:29:11.626][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[23:29:11.627][INFO][CraftTweaker]: crafttweaker.reload.complete
+[23:29:11.627][INFO][CraftTweaker]: This reload was made possible by Pongo Sapiens and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
